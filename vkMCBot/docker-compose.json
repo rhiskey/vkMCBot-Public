@@ -1,0 +1,5 @@
+port_tcp_chat_uplink = 8335; //FROM BOT TO PLUGIN
+port_tcp_console_uplink = 8337; //From BOT TO PLUGIN
+port_tcp_chat_downlink = 8334; //FROM PLUGIN TO BOT (Current)
+port_tcp_console_downlink = 8336; //FROM  PLUGIN TO BOT
+port_tcp_otp_uplink = 8340; //FROM BOT TO PLUGIN

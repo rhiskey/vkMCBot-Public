@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vkMCBot", "vkMCBot\vkMCBot.csproj", "{C9331E91-F4C2-4622-98C5-85020AF2CCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9331E91-F4C2-4622-98C5-85020AF2CCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9331E91-F4C2-4622-98C5-85020AF2CCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9331E91-F4C2-4622-98C5-85020AF2CCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9331E91-F4C2-4622-98C5-85020AF2CCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3B70469-9037-4AF1-9935-D4178E5DC729}
+	EndGlobalSection
+EndGlobal
